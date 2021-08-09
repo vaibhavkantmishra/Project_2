@@ -15,7 +15,7 @@ BY:- Vaibhav Kant Mishra
       
       5. Python
       
-      6. Git + GitHub
+      6. GitHub
       
 ##    PROBLEM STATEMENTS
        1.    which is the most used hashtag on twitter.
