@@ -13,7 +13,7 @@ BY:- Vaibhav Kant Mishra
       
       4. HDFS and/or S3
       
-      5. Python
+      5. Python 3.6
       
       6. GitHub
       
