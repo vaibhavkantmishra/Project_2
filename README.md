@@ -24,9 +24,7 @@ BY:- Vaibhav Kant Mishra
 
        3.    How many twitter account uses the hashtag Tokyo2020 Olympic.
 
-       4.    How many verified users on twitter.
-                  Use any particular hashtag.
-                  example:(hashtag:-"#Olympic",Date_since:-2021-08-07) 
+       4.    How many verified account on twitter who have used Hashtag "Olympic" .
 
        5.    Which account(User_id) has the most number of tweets(post).
        
