@@ -20,9 +20,10 @@ BY:- Vaibhav Kant Mishra
 ##    PROBLEM STATEMENTS
        1.    which is the most used hashtag on twitter.
 
-       2.    Who's favorite specific tweet? eg:-userid(katyperry) Most likes tweet of this particular person on twitter
+       2.    Which is the most popular specific tweet? 
+                  Example:-userid(katyperry) Most liked tweet of this particular person on twitter.
 
-       3.    How many twitter account uses the hashtag Tokyo2020 Olympic.
+       3.    Which are the twitter accounts who use the hashtag Tokyo2020 Olympic.
 
        4.    How many verified account on twitter who have used Hashtag "Olympic" .
 
