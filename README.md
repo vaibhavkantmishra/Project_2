@@ -11,7 +11,12 @@
     4. Local System or HDFS and/or S3
     5. Python 3
     6. Git + GitHub
-
+# FEATURES
+    1. Process the downloaded data analyze the data.
+    2. Find, organize, and format Historical Data of any particular user.
+    3. Having a developer API Account of Twitter that helps in Direct Authentication to Live Data
+    4. Filter out the Hashtag from live as well as historical Data.
+    
 # PROBLEM STATEMENTS
     1. What are the most trending topics on twitter(With & Without hashtag).
     2. What are the trending tweets of any particular user on twitter(With & Without Historical Data). 
